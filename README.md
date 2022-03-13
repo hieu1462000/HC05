@@ -1,1 +1,1 @@
-# HC05
+# Điều khiển LCD hiển thị nhiệt độ
